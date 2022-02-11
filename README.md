@@ -1,3 +1,5 @@
+This is a fork of the original Hit Hi Fit Hai PtokaX script. New features will be maintained here and _maybe_ pulled in the original repo.
+
 # PtokaX scripts for [HiT Hi FiT Hai][1]
 
 The scripts are for use with **[PtokaX Direct Connect][2]** hub. The documentations
